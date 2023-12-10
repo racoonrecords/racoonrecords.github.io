@@ -1,0 +1,23 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+    --bs-body-bg: var(--bs-gray-100);
+}
+
+.release-card {
+    margin-bottom: 10px;
+}
+
+.logo-col {
+    padding: 20px;
+}
+
+.img-preview-small {
+    max-height: 50px;
+}
+
+.img-preview {
+    max-height: 400px;
+}
